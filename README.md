@@ -10,5 +10,5 @@
   
 <br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,go,discord,vscode,bootstrap,github,markdown,linux,bots,electron,elixir,express,figma,flutter,heroku,instagram,neovim,mysql,nodejs,php,sqlite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,go,vscode,bootstrap,github,markdown,linux,bots,electron,elixir,express,figma,flutter,heroku,neovim,mysql,nodejs,php,sqlite&perline=5)](https://skillicons.dev)
 </div>
