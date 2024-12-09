@@ -1,6 +1,6 @@
 <div align="center">
   	<h2>Hey, I'm Alex! ✨</h2>
-  	<p><code>20y old. Fullstack Developer & Data Scientist</code></p>
+  	<p><code>20y old. Game and FullStack developer</code></p>
   
   <br></br>
   
@@ -10,5 +10,5 @@
   
 <br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,go,vscode,bootstrap,github,markdown,linux,bots,electron,elixir,express,figma,flutter,heroku,neovim,mysql,nodejs,php,sqlite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,vscode,bootstrap,github,markdown,bots,nodejs&perline=5)](https://skillicons.dev)
 </div>
