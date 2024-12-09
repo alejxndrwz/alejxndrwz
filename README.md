@@ -1,6 +1,6 @@
 <div align="center">
   	<h2>Hey, I'm Alex! ✨</h2>
-  	<p><code>19y old. Fullstack Developer & Data Scientist</code></p>
+  	<p><code>20y old. Fullstack Developer & Data Scientist</code></p>
   
   <br></br>
   
