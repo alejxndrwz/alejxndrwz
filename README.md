@@ -4,5 +4,5 @@
   
   <br></br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,vscode,bootstrap,github,markdown,bots,nodejs,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,java,py,vscode,bootstrap,github,markdown,bots,nodejs,kalilinux&perline=5)](https://skillicons.dev)
 </div>
