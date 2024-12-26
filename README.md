@@ -1,8 +1,4 @@
 <div align="center">
-  	<h2>Hey, I'm Alex! ✨</h2>
-  	<p><code>20y old. Game and FullStack developer</code></p>
-  
-  <br></br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,&perline=5)](https://skillicons.dev)
+  	<h2>Good hacking! 💀</h2>
+  	<p><code>Who am I?</code></p>
 </div>
