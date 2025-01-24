@@ -1,4 +1,3 @@
 <div align="center">
-  	<h2>Good hacking! 💀</h2>
-  	<p><code>Who am I?</code></p>
+  	<h2>Good hacking!</h2>
 </div>
